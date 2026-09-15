@@ -58,7 +58,21 @@ Open `API/api.go` and replace the token assignment variable with your raw text t
 apiKey := "sk-or-v1-your-key-here"
 ```
 
-### 3. Deploy inside Browser Workspace
+## 3. Run The AI 
+Open your Terminal and run the Ai.
+In windows :
+```cmd + Enter
+Luna-Ai.exe
+```
+In Linux/Mac :
+```Bash
+./Luna-Ai
+```
+
+
+
+
+### 4. Deploy inside Browser Workspace
 Open your web browser tool layout and navigate to the localhost engine pipeline address:
 ```text
 http://localhost:8080
