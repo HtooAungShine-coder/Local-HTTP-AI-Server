@@ -5,11 +5,11 @@ Local HTTP based AI with OpenRouter in Golang programming language
 
 A sleek, lightweight, high-performance local HTTP chat server built from scratch using **Go (Golang)** [sports]. The application handles concurrent frontend form payloads, executes structured API calls to cloud LLMs via **OpenRouter**, and renders streaming text layouts back to a minimalist web interface.
 
-## 🎮 Interface Aesthetic
+## Interface Aesthetic
 * **Theme:** High-visibility terminal workspace (Solid Pitch Black & Orange minimal accent colorway)
 * **Fonts:** Professional system monospace configurations optimized for long-term eye comfort.
 
-## 🚀 Features
+##  Features
 * Full custom standard library routing (`net/http`) without bulky external frameworks.
 * Native JSON payload handling (`encoding/json`) optimized for OpenRouter Response mappings.
 * Universal model protection using the `openrouter/free` model router to guarantee zero downtime from model deprecation.
@@ -24,7 +24,7 @@ A sleek, lightweight, high-performance local HTTP chat server built from scratch
 └── README.md        # Documentation layout
 ```
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 ### 1. Clone the repository
 ```bash
