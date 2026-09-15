@@ -28,8 +28,7 @@ A sleek, lightweight, high-performance local HTTP chat server built from scratch
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com
-cd local-http-ai-server-golang
+git clone https://github.com/HtooAungShine-coder/Local-HTTP-AI-Server.git
 ```
 
 ### 2. Configure Your Credentials
@@ -70,6 +69,9 @@ Your server traces state actions directly to the hosting shell environment conso
 * `[FRONTEND] User input received: <message>`
 * `[BACKEND SUCCESS] Response successfully fetched from OpenRouter.`
 * `[BACKEND EXECUTOR FAILURE]: <error_trace_block>`
+
+## warning!!
+Note : AI is Large-Language Model and sometimes the forntend cannot comprehend what AI is trying to print back to the user with such " * / # " signs, yet.
 
 ## 📜 License
 MIT License. Feel free to tweak, fork, and upgrade!
